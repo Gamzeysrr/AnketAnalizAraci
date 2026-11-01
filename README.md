@@ -47,3 +47,13 @@ python rapor.py
 ```
 
 6. Oluşturulan `anket_raporu.html` dosyasını tarayıcıda açın.
+
+## Proje Ekran Görüntüleri
+
+### Anket Analiz Paneli
+
+![Dashboard](screenshots/dashboard.png.png)
+
+### Detaylı Analiz Görünümü
+
+![Dashboard 2](screenshots/dashboard.png2.png)
